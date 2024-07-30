@@ -28,7 +28,6 @@
 #include "geometry_msgs/msg/pose_stamped.hpp"
 #include "tf2_ros/transform_broadcaster.h"
 #include "geometry_msgs/msg/wrench_stamped.hpp"
-#include <urdf/model.h>
 #include "sensor_msgs/msg/joint_state.hpp"
 
 #include <string.h>
